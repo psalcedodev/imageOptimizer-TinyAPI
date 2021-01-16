@@ -1,5 +1,5 @@
 const tinify = require("tinify");
-tinify.key = "TygHzNB9wKNYKwrcljyRpdXdLvqczbsX";
+tinify.key = "";
 
 const imgFolder = './images';
 const fs = require('fs');
